@@ -1,6 +1,6 @@
 ### Hi there, I'm Lukáš 👋
 
-I'm the "1269-dev" you're looking for!
+I'm the Lukas Halama you're looking for!
 
 * 💻 I'm a Linux enthusiast with deep experience in Ubuntu and Bash.
 * 🐍 I'm a Python developer in progress, focused on building tools and automation scripts.
