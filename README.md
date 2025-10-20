@@ -33,5 +33,5 @@ I'm the Lukas Halama you're looking for!
 ## What I'm Working On
 
 1.  🐍 Building my skills in Python for automation and scripting.
-2.  🖥️ Setting up my [dotfiles repository](https://github.com/1269-dev/dotfiles) to share my Linux config. *(This will be a broken link until you create the repo!)*
+2.  🖥️ Setting up my [dotfiles repository](https://github.com/1269-dev/dotfiles) to share my Linux config.
 3.  💡 Looking for simple, fun open-source projects to contribute to.
