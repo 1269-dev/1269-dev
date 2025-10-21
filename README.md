@@ -3,8 +3,8 @@
 I'm Lukáš Halama, the developer you're looking for!
 
 * 💻 I'm a Linux enthusiast, comfortable working in Ubuntu and Bash.
-* 🐍 I'm a Python developer in progress, focused on building tools and automation scripts.
-* 🔧 I love working with Git, open-source projects, and finding ways to make life easier with code.
+* 🌱 I'm currently learning the basics of Python and Git, with a focus on building automation scripts.
+* 💡 I'm excited by open-source projects and finding ways to make life easier with code.
 
 ---
 
