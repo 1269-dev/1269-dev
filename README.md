@@ -7,7 +7,7 @@ I'm Lukáš Halama, the developer you're looking for!
 * 💡 I'm excited by open-source projects and finding ways to make life easier with code.
  
 ---
- 
+
 ## My Tech Stack
 
 <table>
