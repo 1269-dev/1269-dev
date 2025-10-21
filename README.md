@@ -27,7 +27,7 @@ I'm Lukáš Halama, the developer you're looking for!
     </td>
   </tr>
 </table>
-
+ 
 ---
 
 ## What I'm Working On
