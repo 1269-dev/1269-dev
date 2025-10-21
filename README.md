@@ -1,5 +1,5 @@
 ### Hi there, I'm Lukáš 👋
-
+ 
 I'm Lukáš Halama, the developer you're looking for!
  
 * 💻 I'm a Linux enthusiast, comfortable working in Ubuntu and Bash.
