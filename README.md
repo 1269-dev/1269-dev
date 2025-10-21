@@ -1,8 +1,8 @@
 ### Hi there, I'm Lukáš 👋
 
-I'm the Lukas Halama you're looking for!
+I'm Lukáš Halama, the developer you're looking for!
 
-* 💻 I'm a Linux enthusiast with experience in Ubuntu and Bash.
+* 💻 I'm a Linux enthusiast, comfortable working in Ubuntu and Bash.
 * 🐍 I'm a Python developer in progress, focused on building tools and automation scripts.
 * 🔧 I love working with Git, open-source projects, and finding ways to make life easier with code.
 
@@ -12,8 +12,8 @@ I'm the Lukas Halama you're looking for!
 
 <table>
   <tr>
-    <td align="center"><strong>🚀 Proficient With</strong></td>
-    <td align="center"><strong>🌱 Currently Learning</strong></td>
+    <td align="center"><strong>My Core Tools</strong></td>
+    <td align="center"><strong>Actively Learning</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -33,5 +33,5 @@ I'm the Lukas Halama you're looking for!
 ## What I'm Working On
 
 1.  🐍 Building my skills in Python for automation and scripting.
-2.  🖥️ Setting up my [dotfiles repository](https://github.com/1269-dev/dotfiles) to share my Linux config.
+2.  🖥️ Setting up my [dotfiles repository](https://github.com/lukas-halama/dotfiles) to share my Linux config.
 3.  💡 Looking for simple, fun open-source projects to contribute to.
