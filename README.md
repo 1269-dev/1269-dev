@@ -1,18 +1,18 @@
 ### Hi there, I'm Lukáš 👋
- 
-I'm Lukáš Halama, the developer you're looking for!
- 
-* 💻 I'm a Linux enthusiast, comfortable working in Ubuntu and Bash.
-* 🌱 I'm currently learning the basics of Python and Git, with a focus on building automation scripts.
-* 💡 I'm excited by open-source projects and finding ways to make life easier with code.
+
+I'm a Linux enthusiast and developer with a passion for automation. I believe in using code to build simpler, more efficient workflows (and to make life easier!).
+
+* 🐧 I'm most at home in a **Linux** environment (especially **Ubuntu**) and love scripting in **Bash**.
+* 🌱 I'm currently focused on expanding my skills in **Python** and **Git**, aiming to build robust automation tools.
+* 💡 I'm excited by the **open-source** world and am always looking for interesting projects to contribute to.
 
 ---
- 
+
 ## My Tech Stack
 
 <table>
   <tr>
-    <td align="center"><strong>My Core Tools</strong></td>
+    <td align="center"><strong>Core Tools</strong></td>
     <td align="center"><strong>Actively Learning</strong></td>
   </tr>
   <tr>
@@ -27,11 +27,11 @@ I'm Lukáš Halama, the developer you're looking for!
     </td>
   </tr>
 </table>
- 
+
 ---
 
-## What I'm Working On
+## What I'm Up To
 
-1.  🐍 Building my skills in Python for automation and scripting.
-2.  🖥️ Setting up my [dotfiles repository](https://github.com/lukas-halama/dotfiles) to share my Linux config.
-3.  💡 Looking for simple, fun open-source projects to contribute to.
+1.  🐍 Building small, practical projects in Python to solidify my automation skills.
+2.  📂 Sharing my Linux setup in my [dotfiles repository](https://github.com/lukas-halama/dotfiles).
+3.  🤝 Looking for beginner-friendly open-source projects to make my first contributions. *(Got one? Let me know!)*
